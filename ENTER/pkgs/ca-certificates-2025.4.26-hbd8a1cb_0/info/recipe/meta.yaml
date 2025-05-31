@@ -1,0 +1,45 @@
+# This file created by conda-build 25.4.1
+# meta.yaml template originally from:
+# /home/conda/recipe_root, last modified Sat Apr 26 07:44:34 2025
+# ------------------------------------------------
+
+package:
+  name: ca-certificates
+  version: 2025.4.26
+source:
+  sha256: 0a816057ea3cdefcef70270d2c515e4506bbc954f417fa5ade2021213bb8f0c6
+  url: https://pypi.org/packages/source/c/certifi/certifi-2025.4.26.tar.gz
+build:
+  noarch: generic
+  number: '0'
+  string: hbd8a1cb_0
+requirements:
+  build: []
+  run:
+    - __unix
+test:
+  commands:
+    - test -f "${PREFIX}/ssl/cacert.pem"
+    - test -f "${PREFIX}/ssl/cert.pem"
+    - curl --cacert "${PREFIX}/ssl/cacert.pem" https://www.google.com
+  requires:
+    - curl
+about:
+  home: https://github.com/conda-forge/ca-certificates-feedstock
+  license: ISC
+  license_file: LICENSE
+  summary: Certificates for use with other packages.
+extra:
+  copy_test_source_files: true
+  final: true
+  flow_run_id: azure_20250426.2.1
+  recipe-maintainers:
+    - jakirkham
+    - msarahan
+    - mwcraig
+    - ocefpaf
+    - patricksnape
+    - pelson
+    - scopatz
+  remote_url: https://github.com/conda-forge/ca-certificates-feedstock
+  sha: 19cc1f19d33b4f08732f7d55e4d39af1ca001a4c

@@ -1,0 +1,48 @@
+# This file created by conda-build 25.4.2
+# ------------------------------------------------
+
+package:
+  name: liblzma
+  version: 5.8.1
+source:
+  sha256: 507825b599356c10dca1cd720c9d0d0c9d5400b9de300af00e4d1ea150795543
+  url: https://github.com/tukaani-project/xz/releases/download/v5.8.1/xz-5.8.1.tar.gz
+build:
+  number: 1
+  run_exports:
+    - liblzma >=5.8.1,<6.0a0
+  string: h39f12f2_1
+requirements:
+  build:
+    - clang_bootstrap_osx-arm64 18.1.8 hf1725c4_24
+    - macosx_deployment_target_osx-arm64 11.0 h6553868_2
+    - make 4.4.1 h00291cd_2
+  host:
+    - __osx >=11.0
+  run:
+    - __osx >=11.0
+  run_constrained:
+    - xz 5.8.1.*
+test:
+  commands:
+    - test ! -f ${PREFIX}/lib/liblzma.a
+    - test ! -f ${PREFIX}/lib/liblzma${SHLIB_EXT}
+    - test -f ${PREFIX}/lib/liblzma.*.dylib
+about:
+  license: 0BSD
+  license_file:
+    - COPYING
+    - COPYING.0BSD
+extra:
+  copy_test_source_files: true
+  final: true
+  flow_run_id: azure_20250506.2.1
+  recipe-maintainers:
+    - mingwandroid
+    - msarahan
+    - nehaljwani
+    - ocefpaf
+    - scopatz
+    - xhochy
+  remote_url: https://github.com/conda-forge/xz-feedstock
+  sha: 5cde47340667afac175984acbbc43bfa87db36bd

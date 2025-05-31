@@ -1,0 +1,17 @@
+{
+  "arch": "arm64",
+  "build": "h39f12f2_1",
+  "build_number": 1,
+  "constrains": [
+    "xz 5.8.1.*"
+  ],
+  "depends": [
+    "__osx >=11.0"
+  ],
+  "license": "0BSD",
+  "name": "liblzma",
+  "platform": "osx",
+  "subdir": "osx-arm64",
+  "timestamp": 1746531818330,
+  "version": "5.8.1"
+}

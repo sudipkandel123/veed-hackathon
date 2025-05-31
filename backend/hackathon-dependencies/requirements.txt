@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+fal-client
+pydantic
+python-multipart
+requests
+elevenlabs
+python-dotenv
+certifi
