@@ -1,8 +1,0 @@
-libdir=/Users/sudipkandel/Desktop/Mac/code/hackathon/veed.io/ENTER/lib
-includedir=/Users/sudipkandel/Desktop/Mac/code/hackathon/veed.io/ENTER/include
-
-Name: libsolv
-Description: Library for solving packages
-Version: 0.7.32
-Libs: -L${libdir} -lsolv
-Cflags: -I${includedir}

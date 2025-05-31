@@ -2,7 +2,13 @@
 import fal_client
 import os
 import time
-from typing import Optional, Dict, Any
+import asyncio
+import aiohttp
+import glob
+import requests
+from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor
+from typing import Optional, Dict, Any, List, Tuple
 
 
 class FalImageToVideo:
@@ -19,6 +25,9 @@ class FalImageToVideo:
             raise ValueError(
                 "API key must be provided either as parameter or FAL_KEY environment variable"
             )
+
+        # Create videos directory if it doesn't exist
+        os.makedirs("videos", exist_ok=True)
 
     def convert_image_to_video(
         self,
@@ -83,7 +92,7 @@ class FalImageToVideo:
                     "prompt": prompt
                     if prompt
                     else "Generate a video with natural motion",
-                    "duration": duration,
+                    "duration": f"{duration}s",  # Format as string with 's' suffix
                 }
             )
         elif model == "fal-ai/wan-i2v":
@@ -166,17 +175,152 @@ class FalImageToVideo:
 
         return result
 
+    def download_video(self, video_url: str, output_path: str) -> str:
+        """
+        Download video from URL to specified output path
 
-def main():
-    """Example usage of the FalImageToVideo class"""
+        Args:
+            video_url: URL of the video to download
+            output_path: Path to save the video
+
+        Returns:
+            Path to the downloaded video
+        """
+        print(f"Downloading video from {video_url} to {output_path}")
+        response = requests.get(video_url, stream=True)
+        response.raise_for_status()
+
+        with open(output_path, "wb") as f:
+            for chunk in response.iter_content(chunk_size=8192):
+                f.write(chunk)
+
+        print(f"Video downloaded to {output_path}")
+        return output_path
+
+
+async def process_image(
+    converter: FalImageToVideo, image_path: str, model: str, prompt: str
+) -> Tuple[str, str, Dict]:
+    """Process a single image and return the result along with image path"""
+    # Use ThreadPoolExecutor to run the blocking convert function in a separate thread
+    loop = asyncio.get_event_loop()
+    with ThreadPoolExecutor() as pool:
+        result = await loop.run_in_executor(
+            pool,
+            lambda: converter.convert_image_to_video(
+                image_path=image_path, model=model, prompt=prompt
+            ),
+        )
+
+    return image_path, model, result
+
+
+async def process_images_parallel(
+    converter: FalImageToVideo,
+    image_dir: str = "./images",
+    pattern: str = "*.jpg",
+    model: str = "fal-ai/veo2/image-to-video",
+    prompt: str = "Generate a natural motion video",
+    max_concurrent: int = 3,
+) -> List[Dict]:
+    """
+    Process multiple images in parallel
+
+    Args:
+        converter: FalImageToVideo instance
+        image_dir: Directory containing images
+        pattern: Glob pattern to match image files
+        model: Model to use for conversion
+        prompt: Prompt for generation
+        max_concurrent: Maximum number of concurrent tasks
+
+    Returns:
+        List of results with video URLs and metadata
+    """
+    # Check if image directory exists
+    if not os.path.exists(image_dir):
+        print(f"Error: Image directory '{image_dir}' doesn't exist. Creating it now.")
+        os.makedirs(image_dir, exist_ok=True)
+        return []
+
+    # Get all images matching the pattern
+    image_paths = glob.glob(os.path.join(image_dir, pattern))
+
+    if not image_paths:
+        print(f"No images found matching pattern {pattern} in directory {image_dir}")
+        return []
+
+    # Sort images by modification time (newest first)
+    image_paths.sort(key=lambda x: os.path.getmtime(x), reverse=True)
+
+    print(f"Found {len(image_paths)} images to process")
+
+    # Create tasks for each image but limit concurrency
+    semaphore = asyncio.Semaphore(max_concurrent)
+    tasks = []
+
+    async def process_with_semaphore(img_path):
+        async with semaphore:
+            return await process_image(converter, img_path, model, prompt)
+
+    # Start all tasks
+    for img_path in image_paths:
+        task = asyncio.create_task(process_with_semaphore(img_path))
+        tasks.append(task)
+
+    # Wait for all tasks to complete
+    results = []
+    for task in asyncio.as_completed(tasks):
+        try:
+            image_path, model_used, result = await task
+            # If successful and contains video URL, download it
+            if (
+                result
+                and not hasattr(result, "status")
+                and "video" in result
+                and "url" in result["video"]
+            ):
+                video_url = result["video"]["url"]
+                base_filename = os.path.basename(image_path)
+                name_without_ext = os.path.splitext(base_filename)[0]
+                timestamp = datetime.fromtimestamp(os.path.getmtime(image_path))
+                output_filename = (
+                    f"{timestamp.strftime('%Y%m%d_%H%M%S')}_{name_without_ext}.mp4"
+                )
+                output_path = os.path.join("videos", output_filename)
+
+                # Download in a separate thread to not block
+                try:
+                    with ThreadPoolExecutor() as pool:
+                        await asyncio.get_event_loop().run_in_executor(
+                            pool,
+                            lambda: converter.download_video(video_url, output_path),
+                        )
+
+                    result["local_path"] = output_path
+                    print(
+                        f"Successfully downloaded video for {image_path} to {output_path}"
+                    )
+                except Exception as e:
+                    print(f"Error downloading video for {image_path}: {e}")
+            elif isinstance(result, dict) and "error" in result:
+                print(f"API Error for {image_path}: {result['error']}")
+
+            results.append(
+                {"image_path": image_path, "model": model_used, "result": result}
+            )
+            print(f"Completed processing {image_path}")
+        except Exception as e:
+            error_details = str(e)
+            print(f"Error processing image: {error_details}")
+            results.append({"error": error_details})
+
+    return results
+
+
+async def main_async():
+    """Asynchronous main function to process images in parallel"""
     import os
-
-    # Check if the image file exists
-    image_path = "big-ben.jpg"
-    if not os.path.exists(image_path):
-        print(f"Error: Image file '{image_path}' not found in the current directory.")
-        print("Please place the image file in the same directory as this script.")
-        return
 
     # Get API key from environment variable
     api_key = os.environ.get("FAL_KEY")
@@ -194,50 +338,44 @@ def main():
         print(f"Error: {e}")
         return
 
-    # Example 1: Convert using Veo 2 model
-    try:
-        print("=== Converting with Veo 2 Model ===")
-        result_veo2 = converter.convert_image_to_video(
-            image_path=image_path,
+    # Process all JPG/JPEG images in the current directory
+    patterns = ["*.jpg", "*.jpeg", "*.JPG", "*.JPEG"]
+    all_results = []
+
+    for pattern in patterns:
+        results = await process_images_parallel(
+            converter=converter,
+            image_dir="./images",
+            pattern=pattern,
             model="fal-ai/veo2/image-to-video",
-            prompt="A person walking through a beautiful garden with flowers swaying in the breeze",
-            duration=5,
+            prompt="Generate a smooth, natural motion video",
+            max_concurrent=3,  # Process 3 images at a time
         )
-        print(f"Veo 2 Result: {result_veo2}")
+        all_results.extend(results)
 
-        if "video" in result_veo2:
-            video_url = result_veo2["video"]["url"]
-            print(f"Generated video URL: {video_url}")
+    # Print a summary of results
+    print("\n=== Processing Summary ===")
+    print(f"Total images processed: {len(all_results)}")
 
-    except Exception as e:
-        print(f"Error with Veo 2: {e}")
+    success_count = sum(
+        1 for r in all_results if "result" in r and "local_path" in r["result"]
+    )
+    print(f"Successfully generated videos: {success_count}")
 
-    # Example 2: Convert using Wan-2.1 model
-    try:
-        print("\n=== Converting with Wan-2.1 Model ===")
-        result_wan = converter.convert_image_to_video(
-            image_path=image_path,
-            model="fal-ai/wan-i2v",
-            prompt="Create a cinematic video with dramatic lighting",
-            resolution="720p",
-        )
-        print(f"Wan-2.1 Result: {result_wan}")
+    if success_count > 0:
+        print("\nGenerated videos (newest first):")
+        videos = [
+            r["result"]["local_path"]
+            for r in all_results
+            if "result" in r and "local_path" in r["result"]
+        ]
+        for video in videos:
+            print(f"  - {video}")
 
-    except Exception as e:
-        print(f"Error with Wan-2.1: {e}")
 
-    # Example 3: Using data URL method for faster processing
-    try:
-        print("\n=== Converting with Data URL Method ===")
-        result_data_url = converter.convert_with_data_url(
-            image_path=image_path,
-            model="fal-ai/minimax-video",
-            prompt="Generate smooth motion video",
-        )
-        print(f"Data URL Result: {result_data_url}")
-
-    except Exception as e:
-        print(f"Error with data URL method: {e}")
+def main():
+    """Entry point for the script, runs the async main function"""
+    asyncio.run(main_async())
 
 
 if __name__ == "__main__":
