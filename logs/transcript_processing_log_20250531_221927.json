@@ -1,0 +1,44 @@
+{
+  "timestamp": "20250531_221927",
+  "total_transcripts": 1,
+  "successful_transcripts": 1,
+  "total_images_downloaded": 4,
+  "results": [
+    {
+      "success": true,
+      "transcript_file": "session_transcripts/conversation_20250531_221618.txt",
+      "concepts": [
+        "London Bridge",
+        "Big Ben",
+        "Greenwich Park",
+        "Battersea Park",
+        "fun and exciting trip"
+      ],
+      "downloaded_images": [
+        {
+          "concept": "London Bridge",
+          "filename": "London_Bridge_1.jpg",
+          "url": "https://images.edrawmind.com/article/london-bridge-history/800_531.jpg"
+        },
+        {
+          "concept": "Big Ben",
+          "filename": "Big_Ben_2.jpg",
+          "url": "https://cdn.britannica.com/49/136849-050-6A33C899/Big-Ben-London.jpg"
+        },
+        {
+          "concept": "Greenwich Park",
+          "filename": "Greenwich_Park_3.jpg",
+          "url": "https://media.timeout.com/images/102150513/750/422/image.jpg"
+        },
+        {
+          "concept": "fun and exciting trip",
+          "filename": "fun_and_exciting_trip_5.jpg",
+          "url": "https://cdn.tinybuddha.com/wp-content/uploads/2016/04/Hippie-van-on-the-beach.jpg"
+        }
+      ],
+      "errors": [
+        "Failed to download image for: Battersea Park"
+      ]
+    }
+  ]
+}

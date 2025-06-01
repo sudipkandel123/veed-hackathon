@@ -1,0 +1,56 @@
+============================================================
+ELEVENLABS CONVERSATIONAL AI SESSION TRANSCRIPT
+============================================================
+Session ID: 20250601_083832
+Start Time: 2025-06-01 08:38:32
+Agent ID: agent_01jwk4yynnemwsf3vr3kj9da45
+============================================================
+
+[08:38:32] SYSTEM: Enhanced conversation flow enabled:
+[08:38:32] SYSTEM: - Agent will ask ONE question at a time
+[08:38:32] SYSTEM: - Agent will wait for your complete response
+[08:38:32] SYSTEM: - Sequential discussion pattern enforced
+[08:38:32] SYSTEM: Configure agent system prompt at: https://elevenlabs.io/app/conversational-ai
+[08:38:32] SYSTEM: Starting ElevenLabs conversational AI session
+[08:38:32] SYSTEM: Conversation flow: ONE question at a time, wait for response
+[08:38:32] SYSTEM: Say 'goodbye', 'bye', or 'exit' to end the conversation
+[08:38:34] AGENT: Hey there, How can I help you today?
+[08:38:37] USER: Can I help you today?
+[08:38:37] SYSTEM: User message: 5 words
+[08:38:38] AGENT: I am here to help you create a thirty-second video. To get started, what is the topic or purpose of your video? For example, is it for a birthday greeting, a product promotion, or something else?
+[08:38:38] SYSTEM: Warning: Agent asked 2 questions in one response
+[08:38:38] AGENT (CORRECTED): I am here to help you create a thirty-second video. To get started, what is the topic or purpose of your video? For example, is it for a birthday greeting, a product promotion, or something else? -> I am here to help...
+[08:38:41] USER: I am here to help you create a 30-second video.
+[08:38:41] SYSTEM: User message: 10 words
+[08:38:41] AGENT: Great! To start, what is the video about? For example, is it a birthday greeting, a product promotion, or something else?
+[08:38:41] SYSTEM: Warning: Agent asked 2 questions in one response
+[08:38:42] AGENT (CORRECTED): Great! To start, what is the video about? For example, is it a birthday greeting, a product promotion, or something else? -> Great!...
+[08:38:43] USER: Great, to start.
+[08:38:43] SYSTEM: User message: 3 words
+[08:38:43] AGENT: Okay! To start, what is the video about? What is the topic or purpose of the video you want to create?
+[08:38:43] SYSTEM: Warning: Agent asked 2 questions in one response
+[08:38:45] AGENT (CORRECTED): Okay! To start, what is the video about? What is the topic or purpose of the video you want to create? -> Okay! To start, what is the...
+[08:38:47] USER: Okay, to start, what is the video about?
+[08:38:47] SYSTEM: User message: 8 words
+[08:38:48] AGENT: Thanks! What is the video about or what purpose will it serve? For example, is it a birthday greeting, a product promotion, or travel highlights?
+[08:38:48] SYSTEM: Warning: Agent asked 2 questions in one response
+[08:38:49] AGENT (CORRECTED): Thanks! What is the video about or what purpose will it serve? For example, is it a birthday greeting, a product promotion, or travel highlights? -> Thanks! What  i the video...
+[08:38:52] USER: What is the video about or what purpose will it serve?
+[08:38:52] SYSTEM: User message: 11 words
+[08:38:53] AGENT: Thanks! What is the video about, or what purpose will it serve? For example, is it a birthday greeting, a product promotion, or travel highlights?
+[08:38:53] SYSTEM: Warning: Agent asked 2 questions in one response
+[08:38:54] AGENT (CORRECTED): Thanks! What is the video about, or what purpose will it serve? For example, is it a birthday greeting, a product promotion, or travel highlights? -> Thanks! What is th e video...
+[08:38:57] USER: Thanks. What is the video about or what purpose will it serve?
+[08:38:57] SYSTEM: User message: 12 words
+[08:38:57] AGENT: Thank you! To get started, could you tell me what the video will be about or what purpose it will serve? For example, is it a birthday greeting, a product promotion, or something else?
+[08:38:57] SYSTEM: Warning: Agent asked 2 questions in one response
+[08:38:58] AGENT (CORRECTED): Thank you! To get started, could you tell me what the video will be about or what purpose it will serve? For example, is it a birthday greeting, a product promotion, or something else? -> Thank you! To get...
+[08:38:58] SYSTEM: Session interrupted by user (Ctrl+C)
+[08:39:00] SYSTEM: Session interrupted by user (Ctrl+C)
+[08:39:00] SYSTEM: Session interrupted by user (Ctrl+C)
+[08:39:01] SYSTEM: Session interrupted by user (Ctrl+C)
+
+============================================================
+Session End Time: 2025-06-01 08:39:02
+Session Duration: 0:00:29
+============================================================

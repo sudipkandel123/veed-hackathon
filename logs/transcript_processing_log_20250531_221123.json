@@ -1,0 +1,47 @@
+{
+  "timestamp": "20250531_221123",
+  "total_transcripts": 1,
+  "successful_transcripts": 1,
+  "total_images_downloaded": 5,
+  "results": [
+    {
+      "success": true,
+      "transcript_file": "session_transcripts/conversation_20250531_213307.txt",
+      "concepts": [
+        "London landmarks",
+        "YouTube logo",
+        "video camera",
+        "London visit",
+        "travel vlog"
+      ],
+      "downloaded_images": [
+        {
+          "concept": "London landmarks",
+          "filename": "London_landmarks_1.jpg",
+          "url": "https://londondreaming.com/wp-content/uploads/2020/06/20-QUOTES-ABOUT-LONDON-5.jpg"
+        },
+        {
+          "concept": "YouTube logo",
+          "filename": "YouTube_logo_2.jpg",
+          "url": "https://t3.ftcdn.net/jpg/04/74/05/94/360_F_474059464_qldYuzxaUWEwNTtYBJ44VN89ARuFktHW.jpg"
+        },
+        {
+          "concept": "video camera",
+          "filename": "video_camera_3.jpg",
+          "url": "https://pro.sony/s3/2017/09/05105006/Studio-and-Broadcast-Cameras.jpg"
+        },
+        {
+          "concept": "London visit",
+          "filename": "London_visit_4.jpg",
+          "url": "https://lewis-school.co.uk/wp-content/uploads/2019/01/london-england-westminster-800x500.jpg"
+        },
+        {
+          "concept": "travel vlog",
+          "filename": "travel_vlog_5.jpg",
+          "url": "https://adventures.com/media/20790/s-man-vlogger-happy-recording-video-travelling.jpg"
+        }
+      ],
+      "errors": []
+    }
+  ]
+}

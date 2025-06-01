@@ -1,0 +1,103 @@
+============================================================
+ELEVENLABS CONVERSATIONAL AI SESSION TRANSCRIPT
+============================================================
+Session ID: 20250601_083715
+Start Time: 2025-06-01 08:37:15
+Agent ID: agent_01jwk4yynnemwsf3vr3kj9da45
+============================================================
+
+[08:37:15] SYSTEM: Enhanced conversation flow enabled:
+[08:37:15] SYSTEM: - Agent will ask ONE question at a time
+[08:37:15] SYSTEM: - Agent will wait for your complete response
+[08:37:15] SYSTEM: - Sequential discussion pattern enforced
+[08:37:15] SYSTEM: Configure agent system prompt at: https://elevenlabs.io/app/conversational-ai
+[08:37:15] SYSTEM: Starting ElevenLabs conversational AI session
+[08:37:15] SYSTEM: Conversation flow: ONE question at a time, wait for response
+[08:37:15] SYSTEM: Say 'goodbye', 'bye', or 'exit' to end the conversation
+[08:37:18] AGENT: Hey there, How can I help you today?
+[08:37:22] USER: How can I help you today?
+[08:37:22] SYSTEM: User message: 6 words
+[08:37:22] AGENT: What type of video would you like to create?
+[08:37:23] AGENT (CORRECTED): What type of video would you like to create? -> What type of video...
+[08:37:25] USER: Uh... What type of video would you like to create?
+[08:37:25] SYSTEM: User message: 10 words
+[08:37:26] AGENT: I am here to help you create a thirty-second video. To start, what topic or purpose do you have in mind for the video? For example, is it for a birthday greeting, a product promotion, or perhaps to showcase travel highlights?
+[08:37:26] SYSTEM: Warning: Agent asked 2 questions in one response
+[08:37:26] AGENT (CORRECTED): I am here to help you create a thirty-second video. To start, what topic or purpose do you have in mind for the video? For example, is it for a birthday greeting, a product promotion, or perhaps to showcase travel highlights? -> I am here to help...
+[08:37:29] USER: I am here to help you create a 30 second video.
+[08:37:29] SYSTEM: User message: 11 words
+[08:37:29] AGENT: Okay! To start, what is the video about? What is the topic or purpose?
+[08:37:29] SYSTEM: Warning: Agent asked 2 questions in one response
+[08:37:31] AGENT (CORRECTED): Okay! To start, what is the video about? What is the topic or purpose? -> Okay! To start, what is the...
+[08:37:35] USER: Okay, to start what is the video about? What is the topic or purpose?
+[08:37:35] SYSTEM: User message: 14 words
+[08:37:35] AGENT: I see, so what is the video about? What is the topic or purpose?
+[08:37:35] SYSTEM: Warning: Agent asked 2 questions in one response
+[08:37:36] AGENT (CORRECTED): I see, so what is the video about? What is the topic or purpose? -> I see, so what is the...
+[08:37:41] USER: I see so what is the video about, what is the topic or purpose.
+[08:37:41] SYSTEM: User message: 14 words
+[08:37:42] AGENT: My apologies, I seem to be having some issues.
+
+To reiterate, what is the topic or purpose of the video you'd like to create? For example, is it a birthday greeting, a product promotion, or travel highlights?
+[08:37:42] SYSTEM: Warning: Agent asked 2 questions in one response
+[08:37:42] AGENT (CORRECTED): My apologies, I seem to be having some issues.
+
+To reiterate, what is the topic or purpose of the video you'd like to create? For example, is it a birthday greeting, a product promotion, or travel highlights? -> My apologies, I ...
+[08:37:45] USER: My apologies I seem to be having some issues.
+[08:37:45] SYSTEM: User message: 9 words
+[08:37:45] AGENT: No problem at all. I am here to help you create a thirty-second video. To get started, could you please tell me what the video is about? What is the topic or purpose?
+[08:37:45] SYSTEM: Warning: Agent asked 2 questions in one response
+[08:37:46] AGENT (CORRECTED): No problem at all. I am here to help you create a thirty-second video. To get started, could you please tell me what the video is about? What is the topic or purpose? -> No problem at...
+[08:37:49] USER: No problem at all. I am here to help you create a 30 second video.
+[08:37:49] SYSTEM: User message: 15 words
+[08:37:49] AGENT: Great! To get...
+[08:37:50] AGENT (CORRECTED): Great! To get... -> ...
+[08:37:53] USER: To get started could you please tell me what this video is about?
+[08:37:53] SYSTEM: User message: 13 words
+[08:37:53] AGENT: I would like to...
+[08:37:56] USER: I would like to...
+[08:37:56] SYSTEM: User message: 4 words
+[08:37:56] AGENT: I would like to create a birthday greeting video.
+[08:37:56] AGENT (CORRECTED): I would like to create a birthday greeting video. -> I would like to creat e...
+[08:37:59] USER: I would like to create a birthday greeting video.
+[08:37:59] SYSTEM: User message: 9 words
+[08:37:59] AGENT: Great! To make...
+[08:38:02] USER: To make...
+[08:38:02] SYSTEM: User message: 2 words
+[08:38:02] AGENT: To make sure I...
+[08:38:05] USER: To make sure I...
+[08:38:05] SYSTEM: User message: 4 words
+[08:38:05] AGENT: To make sure I understand, you want to create a birthday greeting video. Is that right?
+[08:38:06] AGENT (CORRECTED): To make sure I understand, you want to create a birthday greeting video. Is that right? -> To make sure I understand, you want...
+[08:38:11] USER: To make sure i understand, you want to create a birthday greeting video, is that right?
+[08:38:11] SYSTEM: User message: 16 words
+[08:38:11] AGENT: Yes, that is...
+[08:38:11] AGENT (CORRECTED): Yes, that is... -> Yes,...
+[08:38:13] USER: Yes, that is...
+[08:38:13] SYSTEM: User message: 3 words
+[08:38:13] AGENT: Yes, that is correct. What...
+[08:38:14] AGENT (CORRECTED): Yes, that is correct. What... -> Yes, that is...
+[08:38:16] USER: yes, that is correct. What?
+[08:38:16] SYSTEM: User message: 5 words
+[08:38:16] AGENT: Perfect! What style...
+[08:38:19] USER: Perfect. What style?
+[08:38:19] SYSTEM: User message: 3 words
+[08:38:19] AGENT: What style or...
+[08:38:22] USER: Style or...?
+[08:38:22] SYSTEM: User message: 2 words
+[08:38:22] AGENT: What style or mood...
+[08:38:24] USER: Style or mood...
+[08:38:24] SYSTEM: User message: 3 words
+[08:38:24] AGENT: What style or mood are...
+[08:38:25] SYSTEM: Session interrupted by user (Ctrl+C)
+
+============================================================
+Session End Time: 2025-06-01 08:38:26
+Session Duration: 0:01:10
+============================================================
+[08:38:27] SYSTEM: Conversation ID: conv_01jwn6rs86f64sp2q80cqby7qb
+
+============================================================
+Session End Time: 2025-06-01 08:38:27
+Session Duration: 0:01:11
+============================================================

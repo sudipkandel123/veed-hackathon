@@ -1,0 +1,2316 @@
+=== API Security Scan Report ===
+
+
+## API Endpoint (35 found)
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 8
+Content: Content: Content: http://localhost:8000/docs (Swagger UI)
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 9
+Content: Match: http://localhost:8000/docs
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 14
+Content: Content: Match: http://localhost:8000/docs
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 15
+Content: Match: http://localhost:8000/docs
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 20
+Content: Content: Content: print("📖 Documentation available at: http://localhost:8000/docs")
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 21
+Content: Match: http://localhost:8000/docs
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 26
+Content: Content: Match: http://localhost:8000/docs
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 27
+Content: Match: http://localhost:8000/docs
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 32
+Content: Content: Content: - [YouTube API Quotas](https://developers.google.com/youtube/v3/getting-started#quota)
+Match: https://developers.google.com/youtube/v3/
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 33
+Content: Match: https://developers.google.com/youtube/v3/
+Match: https://developers.google.com/youtube/v3/
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 38
+Content: Content: Match: https://developers.google.com/youtube/v3/
+Match: https://developers.google.com/youtube/v3/
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 39
+Content: Match: https://developers.google.com/youtube/v3/
+Match: https://developers.google.com/youtube/v3/
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 44
+Content: Content: Content: - **Swagger UI**: http://localhost:8000/docs
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 45
+Content: Match: http://localhost:8000/docs
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 50
+Content: Content: Match: http://localhost:8000/docs
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 51
+Content: Match: http://localhost:8000/docs
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 56
+Content: Content: Content: curl -X POST "https://open.tiktokapis.com/v2/oauth/token/" \
+Match: https://open.tiktokapis.com/v2/
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 57
+Content: Match: https://open.tiktokapis.com/v2/
+Match: https://open.tiktokapis.com/v2/
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 62
+Content: Content: Match: https://open.tiktokapis.com/v2/
+Match: https://open.tiktokapis.com/v2/
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 63
+Content: Match: https://open.tiktokapis.com/v2/
+Match: https://open.tiktokapis.com/v2/
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 68
+Content: Content: http://localhost:8000/docs (Swagger UI)
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 69
+Content: Match: http://localhost:8000/docs
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 74
+Content: Content: print("📖 Documentation available at: http://localhost:8000/docs")
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 75
+Content: Match: http://localhost:8000/docs
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 80
+Content: Content: - [YouTube API Quotas](https://developers.google.com/youtube/v3/getting-started#quota)
+Match: https://developers.google.com/youtube/v3/
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 81
+Content: Match: https://developers.google.com/youtube/v3/
+Match: https://developers.google.com/youtube/v3/
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 86
+Content: Content: - **Swagger UI**: http://localhost:8000/docs
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 87
+Content: Match: http://localhost:8000/docs
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 92
+Content: Content: curl -X POST "https://open.tiktokapis.com/v2/oauth/token/" \
+Match: https://open.tiktokapis.com/v2/
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 93
+Content: Match: https://open.tiktokapis.com/v2/
+Match: https://open.tiktokapis.com/v2/
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/fastapi_server.py
+Line: 19
+Content: http://localhost:8000/docs (Swagger UI)
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/fastapi_server.py
+Line: 959
+Content: print("📖 Documentation available at: http://localhost:8000/docs")
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/YOUTUBE_SETUP_GUIDE.md
+Line: 309
+Content: - [YouTube API Quotas](https://developers.google.com/youtube/v3/getting-started#quota)
+Match: https://developers.google.com/youtube/v3/
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/FASTAPI_API_GUIDE.md
+Line: 49
+Content: - **Swagger UI**: http://localhost:8000/docs
+Match: http://localhost:8000/docs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/TIKTOK_SETUP_GUIDE.md
+Line: 46
+Content: curl -X POST "https://open.tiktokapis.com/v2/oauth/token/" \
+Match: https://open.tiktokapis.com/v2/
+--------------------------------------------------
+
+## Potential API Key (350 found)
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 100
+Content: Content: Content: "OPENAI_API_KEY": bool(os.environ.get("OPENAI_API_KEY")),
+Match: API_KEY": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 101
+Content: Match: API_KEY": bool
+Match: API_KEY": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 106
+Content: Content: Match: API_KEY": bool
+Match: API_KEY": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 107
+Content: Match: API_KEY": bool
+Match: API_KEY": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 112
+Content: Content: Content: "ELEVENLABS_API_KEY": bool(os.environ.get("ELEVENLABS_API_KEY")),
+Match: API_KEY": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 113
+Content: Match: API_KEY": bool
+Match: API_KEY": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 118
+Content: Content: Match: API_KEY": bool
+Match: API_KEY": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 119
+Content: Match: API_KEY": bool
+Match: API_KEY": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 124
+Content: Content: Content: "TIKTOK_ACCESS_TOKEN": bool(os.environ.get("TIKTOK_ACCESS_TOKEN")),
+Match: TOKEN": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 125
+Content: Match: TOKEN": bool
+Match: TOKEN": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 130
+Content: Content: Match: TOKEN": bool
+Match: TOKEN": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 131
+Content: Match: TOKEN": bool
+Match: TOKEN": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 136
+Content: Content: Content: API_KEY = os.environ.get('ELEVENLABS_API_KEY')
+Match: API_KEY = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 137
+Content: Match: API_KEY = os
+Match: API_KEY = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 142
+Content: Content: Match: API_KEY = os
+Match: API_KEY = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 143
+Content: Match: API_KEY = os
+Match: API_KEY = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 148
+Content: Content: Content: client = ElevenLabs(api_key=API_KEY)
+Match: api_key=API_KEY
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 149
+Content: Match: api_key=API_KEY
+Match: api_key=API_KEY
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 154
+Content: Content: Match: api_key=API_KEY
+Match: api_key=API_KEY
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 155
+Content: Match: api_key=API_KEY
+Match: api_key=API_KEY
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 160
+Content: Content: Content: def __init__(self, api_key=None):
+Match: api_key=None
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 161
+Content: Match: api_key=None
+Match: api_key=None
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 166
+Content: Content: Match: api_key=None
+Match: api_key=None
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 167
+Content: Match: api_key=None
+Match: api_key=None
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 172
+Content: Content: Content: self.api_key = api_key
+Match: api_key = api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 173
+Content: Match: api_key = api_key
+Match: api_key = api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 178
+Content: Content: Match: api_key = api_key
+Match: api_key = api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 179
+Content: Match: api_key = api_key
+Match: api_key = api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 184
+Content: Content: Content: API_KEY = os.environ.get('ELEVENLABS_API_KEY')
+Match: API_KEY = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 185
+Content: Match: API_KEY = os
+Match: API_KEY = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 190
+Content: Content: Match: API_KEY = os
+Match: API_KEY = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 191
+Content: Match: API_KEY = os
+Match: API_KEY = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 196
+Content: Content: Content: client = ElevenLabs(api_key=API_KEY)
+Match: api_key=API_KEY
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 197
+Content: Match: api_key=API_KEY
+Match: api_key=API_KEY
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 202
+Content: Content: Match: api_key=API_KEY
+Match: api_key=API_KEY
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 203
+Content: Match: api_key=API_KEY
+Match: api_key=API_KEY
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 208
+Content: Content: Content: OPENAI_API_KEY=your_openai_api_key_here
+Match: API_KEY=your_openai_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 209
+Content: Match: API_KEY=your_openai_api_key_here
+Match: API_KEY=your_openai_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 214
+Content: Content: Match: API_KEY=your_openai_api_key_here
+Match: API_KEY=your_openai_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 215
+Content: Match: API_KEY=your_openai_api_key_here
+Match: API_KEY=your_openai_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 220
+Content: Content: Content: ELEVENLABS_API_KEY=your_elevenlabs_api_key_here
+Match: API_KEY=your_elevenlabs_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 221
+Content: Match: API_KEY=your_elevenlabs_api_key_here
+Match: API_KEY=your_elevenlabs_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 226
+Content: Content: Match: API_KEY=your_elevenlabs_api_key_here
+Match: API_KEY=your_elevenlabs_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 227
+Content: Match: API_KEY=your_elevenlabs_api_key_here
+Match: API_KEY=your_elevenlabs_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 232
+Content: Content: Content: TIKTOK_CLIENT_SECRET=your_client_secret
+Match: SECRET=your_client_secret
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 233
+Content: Match: SECRET=your_client_secret
+Match: SECRET=your_client_secret
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 238
+Content: Content: Match: SECRET=your_client_secret
+Match: SECRET=your_client_secret
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 239
+Content: Match: SECRET=your_client_secret
+Match: SECRET=your_client_secret
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 244
+Content: Content: Content: TIKTOK_ACCESS_TOKEN=your_access_token
+Match: TOKEN=your_access_token
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 245
+Content: Match: TOKEN=your_access_token
+Match: TOKEN=your_access_token
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 250
+Content: Content: Match: TOKEN=your_access_token
+Match: TOKEN=your_access_token
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 251
+Content: Match: TOKEN=your_access_token
+Match: TOKEN=your_access_token
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 256
+Content: Content: Content: self.client_secret = os.getenv("TIKTOK_CLIENT_SECRET")
+Match: secret = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 257
+Content: Match: secret = os
+Match: secret = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 262
+Content: Content: Match: secret = os
+Match: secret = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 263
+Content: Match: secret = os
+Match: secret = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 268
+Content: Content: Content: self.access_token = os.getenv("TIKTOK_ACCESS_TOKEN")
+Match: token = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 269
+Content: Match: token = os
+Match: token = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 274
+Content: Content: Match: token = os
+Match: token = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 275
+Content: Match: token = os
+Match: token = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 280
+Content: Content: Content: print("   TIKTOK_CLIENT_SECRET=your_client_secret")
+Match: SECRET=your_client_secret"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 281
+Content: Match: SECRET=your_client_secret"
+Match: SECRET=your_client_secret"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 286
+Content: Content: Match: SECRET=your_client_secret"
+Match: SECRET=your_client_secret"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 287
+Content: Match: SECRET=your_client_secret"
+Match: SECRET=your_client_secret"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 292
+Content: Content: Content: print("   TIKTOK_ACCESS_TOKEN=your_access_token")
+Match: TOKEN=your_access_token"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 293
+Content: Match: TOKEN=your_access_token"
+Match: TOKEN=your_access_token"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 298
+Content: Content: Match: TOKEN=your_access_token"
+Match: TOKEN=your_access_token"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 299
+Content: Match: TOKEN=your_access_token"
+Match: TOKEN=your_access_token"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 304
+Content: Content: Content: def __init__(self, api_key: Optional[str] = None):
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 305
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 310
+Content: Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 311
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 316
+Content: Content: Content: api_key: ElevenLabs API key. If not provided, uses ELEVENLABS_API_KEY env var
+Match: api_key: ElevenLabs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 317
+Content: Match: api_key: ElevenLabs
+Match: api_key: ElevenLabs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 322
+Content: Content: Match: api_key: ElevenLabs
+Match: api_key: ElevenLabs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 323
+Content: Match: api_key: ElevenLabs
+Match: api_key: ElevenLabs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 328
+Content: Content: Content: self.client = ElevenLabs(api_key=os.environ.get("ELEVENLABS_API_KEY"))
+Match: api_key=os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 329
+Content: Match: api_key=os
+Match: api_key=os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 334
+Content: Content: Match: api_key=os
+Match: api_key=os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 335
+Content: Match: api_key=os
+Match: api_key=os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 340
+Content: Content: Content: processor = ElevenLabsVideoProcessor(api_key=args.api_key)
+Match: api_key=args
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 341
+Content: Match: api_key=args
+Match: api_key=args
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 346
+Content: Content: Match: api_key=args
+Match: api_key=args
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 347
+Content: Match: api_key=args
+Match: api_key=args
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 352
+Content: Content: Content: def __init__(self, api_key: Optional[str] = None):
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 353
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 358
+Content: Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 359
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 364
+Content: Content: Content: api_key: Optional API key. If not provided, will use FAL_KEY environment variable
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 365
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 370
+Content: Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 371
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 376
+Content: Content: Content: api_key = os.environ.get("FAL_KEY")
+Match: api_key = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 377
+Content: Match: api_key = os
+Match: api_key = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 382
+Content: Content: Match: api_key = os
+Match: api_key = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 383
+Content: Match: api_key = os
+Match: api_key = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 388
+Content: Content: Content: converter = FalImageToVideo(api_key=api_key)
+Match: api_key=api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 389
+Content: Match: api_key=api_key
+Match: api_key=api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 394
+Content: Content: Match: api_key=api_key
+Match: api_key=api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 395
+Content: Match: api_key=api_key
+Match: api_key=api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 400
+Content: Content: Content: def __init__(self, openai_api_key: Optional[str] = None):
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 401
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 406
+Content: Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 407
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 412
+Content: Content: Content: openai_api_key: OpenAI API key for transcript analysis
+Match: api_key: OpenAI
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 413
+Content: Match: api_key: OpenAI
+Match: api_key: OpenAI
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 418
+Content: Content: Match: api_key: OpenAI
+Match: api_key: OpenAI
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 419
+Content: Match: api_key: OpenAI
+Match: api_key: OpenAI
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 424
+Content: Content: Content: self.openai_client = openai.OpenAI(api_key=openai_api_key)
+Match: api_key=openai_api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 425
+Content: Match: api_key=openai_api_key
+Match: api_key=openai_api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 430
+Content: Content: Match: api_key=openai_api_key
+Match: api_key=openai_api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 431
+Content: Match: api_key=openai_api_key
+Match: api_key=openai_api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 436
+Content: Content: Content: self.openai_client = openai.OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+Match: api_key=os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 437
+Content: Match: api_key=os
+Match: api_key=os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 442
+Content: Content: Match: api_key=os
+Match: api_key=os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 443
+Content: Match: api_key=os
+Match: api_key=os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 448
+Content: Content: Content: print("Please set it using: export OPENAI_API_KEY=your_openai_key")
+Match: API_KEY=your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 449
+Content: Match: API_KEY=your_openai_key"
+Match: API_KEY=your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 454
+Content: Content: Match: API_KEY=your_openai_key"
+Match: API_KEY=your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 455
+Content: Match: API_KEY=your_openai_key"
+Match: API_KEY=your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 460
+Content: Content: Content: downloader = TranscriptImageDownloader(openai_api_key=openai_key)
+Match: api_key=openai_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 461
+Content: Match: api_key=openai_key
+Match: api_key=openai_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 466
+Content: Content: Match: api_key=openai_key
+Match: api_key=openai_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 467
+Content: Match: api_key=openai_key
+Match: api_key=openai_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 472
+Content: Content: Content: print("Please set it using: export OPENAI_API_KEY=your_openai_key")
+Match: API_KEY=your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 473
+Content: Match: API_KEY=your_openai_key"
+Match: API_KEY=your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 478
+Content: Content: Match: API_KEY=your_openai_key"
+Match: API_KEY=your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 479
+Content: Match: API_KEY=your_openai_key"
+Match: API_KEY=your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 484
+Content: Content: Content: downloader = TranscriptImageDownloader(openai_api_key=openai_key)
+Match: api_key=openai_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 485
+Content: Match: api_key=openai_key
+Match: api_key=openai_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 490
+Content: Content: Match: api_key=openai_key
+Match: api_key=openai_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 491
+Content: Match: api_key=openai_key
+Match: api_key=openai_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 496
+Content: Content: Content: export OPENAI_API_KEY="your_openai_key"
+Match: API_KEY="your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 497
+Content: Match: API_KEY="your_openai_key"
+Match: API_KEY="your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 502
+Content: Content: Match: API_KEY="your_openai_key"
+Match: API_KEY="your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 503
+Content: Match: API_KEY="your_openai_key"
+Match: API_KEY="your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 508
+Content: Content: Content: export ELEVENLABS_API_KEY="your_elevenlabs_key"
+Match: API_KEY="your_elevenlabs_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 509
+Content: Match: API_KEY="your_elevenlabs_key"
+Match: API_KEY="your_elevenlabs_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 514
+Content: Content: Match: API_KEY="your_elevenlabs_key"
+Match: API_KEY="your_elevenlabs_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 515
+Content: Match: API_KEY="your_elevenlabs_key"
+Match: API_KEY="your_elevenlabs_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 520
+Content: Content: Content: export TIKTOK_CLIENT_SECRET="your_tiktok_secret"
+Match: SECRET="your_tiktok_secret"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 521
+Content: Match: SECRET="your_tiktok_secret"
+Match: SECRET="your_tiktok_secret"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 526
+Content: Content: Match: SECRET="your_tiktok_secret"
+Match: SECRET="your_tiktok_secret"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 527
+Content: Match: SECRET="your_tiktok_secret"
+Match: SECRET="your_tiktok_secret"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 532
+Content: Content: Content: export TIKTOK_ACCESS_TOKEN="your_tiktok_token"
+Match: TOKEN="your_tiktok_token"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 533
+Content: Match: TOKEN="your_tiktok_token"
+Match: TOKEN="your_tiktok_token"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 538
+Content: Content: Match: TOKEN="your_tiktok_token"
+Match: TOKEN="your_tiktok_token"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 539
+Content: Match: TOKEN="your_tiktok_token"
+Match: TOKEN="your_tiktok_token"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 544
+Content: Content: Content: OPENAI_API_KEY=your_openai_key_here
+Match: API_KEY=your_openai_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 545
+Content: Match: API_KEY=your_openai_key_here
+Match: API_KEY=your_openai_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 550
+Content: Content: Match: API_KEY=your_openai_key_here
+Match: API_KEY=your_openai_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 551
+Content: Match: API_KEY=your_openai_key_here
+Match: API_KEY=your_openai_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 556
+Content: Content: Content: ELEVENLABS_API_KEY=your_elevenlabs_key_here
+Match: API_KEY=your_elevenlabs_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 557
+Content: Match: API_KEY=your_elevenlabs_key_here
+Match: API_KEY=your_elevenlabs_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 562
+Content: Content: Match: API_KEY=your_elevenlabs_key_here
+Match: API_KEY=your_elevenlabs_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 563
+Content: Match: API_KEY=your_elevenlabs_key_here
+Match: API_KEY=your_elevenlabs_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 568
+Content: Content: Content: TIKTOK_CLIENT_SECRET=your_tiktok_secret
+Match: SECRET=your_tiktok_secret
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 569
+Content: Match: SECRET=your_tiktok_secret
+Match: SECRET=your_tiktok_secret
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 574
+Content: Content: Match: SECRET=your_tiktok_secret
+Match: SECRET=your_tiktok_secret
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 575
+Content: Match: SECRET=your_tiktok_secret
+Match: SECRET=your_tiktok_secret
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 580
+Content: Content: Content: TIKTOK_ACCESS_TOKEN=your_tiktok_token
+Match: TOKEN=your_tiktok_token
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 581
+Content: Match: TOKEN=your_tiktok_token
+Match: TOKEN=your_tiktok_token
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 586
+Content: Content: Match: TOKEN=your_tiktok_token
+Match: TOKEN=your_tiktok_token
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 587
+Content: Match: TOKEN=your_tiktok_token
+Match: TOKEN=your_tiktok_token
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 592
+Content: Content: Content: -d "client_key=YOUR_CLIENT_KEY&client_secret=YOUR_CLIENT_SECRET&code=AUTHORIZATION_CODE&grant_type=authorization_code&redirect_uri=YOUR_REDIRECT_URI"
+Match: secret=YOUR_CLIENT_SECRET
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 593
+Content: Match: secret=YOUR_CLIENT_SECRET
+Match: secret=YOUR_CLIENT_SECRET
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 598
+Content: Content: Match: secret=YOUR_CLIENT_SECRET
+Match: secret=YOUR_CLIENT_SECRET
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 599
+Content: Match: secret=YOUR_CLIENT_SECRET
+Match: secret=YOUR_CLIENT_SECRET
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 604
+Content: Content: Content: TIKTOK_CLIENT_SECRET=your_client_secret_here
+Match: SECRET=your_client_secret_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 605
+Content: Match: SECRET=your_client_secret_here
+Match: SECRET=your_client_secret_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 610
+Content: Content: Match: SECRET=your_client_secret_here
+Match: SECRET=your_client_secret_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 611
+Content: Match: SECRET=your_client_secret_here
+Match: SECRET=your_client_secret_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 616
+Content: Content: Content: TIKTOK_ACCESS_TOKEN=your_access_token_here
+Match: TOKEN=your_access_token_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 617
+Content: Match: TOKEN=your_access_token_here
+Match: TOKEN=your_access_token_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 622
+Content: Content: Match: TOKEN=your_access_token_here
+Match: TOKEN=your_access_token_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 623
+Content: Match: TOKEN=your_access_token_here
+Match: TOKEN=your_access_token_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 628
+Content: Content: Content: def __init__(self, api_key: Optional[str] = None):
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 629
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 634
+Content: Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 635
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 640
+Content: Content: Content: api_key: Optional API key. If not provided, will use FAL_KEY environment variable
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 641
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 646
+Content: Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 647
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 652
+Content: Content: Content: api_key = os.environ.get("FAL_KEY")
+Match: api_key = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 653
+Content: Match: api_key = os
+Match: api_key = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 658
+Content: Content: Match: api_key = os
+Match: api_key = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 659
+Content: Match: api_key = os
+Match: api_key = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 664
+Content: Content: Content: converter = FalImageToVideo(api_key=api_key)
+Match: api_key=api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 665
+Content: Match: api_key=api_key
+Match: api_key=api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 670
+Content: Content: Match: api_key=api_key
+Match: api_key=api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 671
+Content: Match: api_key=api_key
+Match: api_key=api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 676
+Content: Content: Content: export ELEVENLABS_API_KEY="your_api_key_here"
+Match: API_KEY="your_api_key_here"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 677
+Content: Match: API_KEY="your_api_key_here"
+Match: API_KEY="your_api_key_here"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 682
+Content: Content: Match: API_KEY="your_api_key_here"
+Match: API_KEY="your_api_key_here"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 683
+Content: Match: API_KEY="your_api_key_here"
+Match: API_KEY="your_api_key_here"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 688
+Content: Content: Content: ELEVENLABS_API_KEY=your_api_key_here
+Match: API_KEY=your_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 689
+Content: Match: API_KEY=your_api_key_here
+Match: API_KEY=your_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 694
+Content: Content: Match: API_KEY=your_api_key_here
+Match: API_KEY=your_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 695
+Content: Match: API_KEY=your_api_key_here
+Match: API_KEY=your_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 700
+Content: Content: "OPENAI_API_KEY": bool(os.environ.get("OPENAI_API_KEY")),
+Match: API_KEY": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 701
+Content: Match: API_KEY": bool
+Match: API_KEY": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 706
+Content: Content: "ELEVENLABS_API_KEY": bool(os.environ.get("ELEVENLABS_API_KEY")),
+Match: API_KEY": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 707
+Content: Match: API_KEY": bool
+Match: API_KEY": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 712
+Content: Content: "TIKTOK_ACCESS_TOKEN": bool(os.environ.get("TIKTOK_ACCESS_TOKEN")),
+Match: TOKEN": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 713
+Content: Match: TOKEN": bool
+Match: TOKEN": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 718
+Content: Content: API_KEY = os.environ.get('ELEVENLABS_API_KEY')
+Match: API_KEY = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 719
+Content: Match: API_KEY = os
+Match: API_KEY = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 724
+Content: Content: client = ElevenLabs(api_key=API_KEY)
+Match: api_key=API_KEY
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 725
+Content: Match: api_key=API_KEY
+Match: api_key=API_KEY
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 730
+Content: Content: def __init__(self, api_key=None):
+Match: api_key=None
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 731
+Content: Match: api_key=None
+Match: api_key=None
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 736
+Content: Content: self.api_key = api_key
+Match: api_key = api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 737
+Content: Match: api_key = api_key
+Match: api_key = api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 742
+Content: Content: API_KEY = os.environ.get('ELEVENLABS_API_KEY')
+Match: API_KEY = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 743
+Content: Match: API_KEY = os
+Match: API_KEY = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 748
+Content: Content: client = ElevenLabs(api_key=API_KEY)
+Match: api_key=API_KEY
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 749
+Content: Match: api_key=API_KEY
+Match: api_key=API_KEY
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 754
+Content: Content: OPENAI_API_KEY=your_openai_api_key_here
+Match: API_KEY=your_openai_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 755
+Content: Match: API_KEY=your_openai_api_key_here
+Match: API_KEY=your_openai_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 760
+Content: Content: ELEVENLABS_API_KEY=your_elevenlabs_api_key_here
+Match: API_KEY=your_elevenlabs_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 761
+Content: Match: API_KEY=your_elevenlabs_api_key_here
+Match: API_KEY=your_elevenlabs_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 766
+Content: Content: TIKTOK_CLIENT_SECRET=your_client_secret
+Match: SECRET=your_client_secret
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 767
+Content: Match: SECRET=your_client_secret
+Match: SECRET=your_client_secret
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 772
+Content: Content: TIKTOK_ACCESS_TOKEN=your_access_token
+Match: TOKEN=your_access_token
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 773
+Content: Match: TOKEN=your_access_token
+Match: TOKEN=your_access_token
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 778
+Content: Content: self.client_secret = os.getenv("TIKTOK_CLIENT_SECRET")
+Match: secret = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 779
+Content: Match: secret = os
+Match: secret = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 784
+Content: Content: self.access_token = os.getenv("TIKTOK_ACCESS_TOKEN")
+Match: token = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 785
+Content: Match: token = os
+Match: token = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 790
+Content: Content: print("   TIKTOK_CLIENT_SECRET=your_client_secret")
+Match: SECRET=your_client_secret"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 791
+Content: Match: SECRET=your_client_secret"
+Match: SECRET=your_client_secret"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 796
+Content: Content: print("   TIKTOK_ACCESS_TOKEN=your_access_token")
+Match: TOKEN=your_access_token"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 797
+Content: Match: TOKEN=your_access_token"
+Match: TOKEN=your_access_token"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 802
+Content: Content: def __init__(self, api_key: Optional[str] = None):
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 803
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 808
+Content: Content: api_key: ElevenLabs API key. If not provided, uses ELEVENLABS_API_KEY env var
+Match: api_key: ElevenLabs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 809
+Content: Match: api_key: ElevenLabs
+Match: api_key: ElevenLabs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 814
+Content: Content: self.client = ElevenLabs(api_key=os.environ.get("ELEVENLABS_API_KEY"))
+Match: api_key=os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 815
+Content: Match: api_key=os
+Match: api_key=os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 820
+Content: Content: processor = ElevenLabsVideoProcessor(api_key=args.api_key)
+Match: api_key=args
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 821
+Content: Match: api_key=args
+Match: api_key=args
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 826
+Content: Content: def __init__(self, api_key: Optional[str] = None):
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 827
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 832
+Content: Content: api_key: Optional API key. If not provided, will use FAL_KEY environment variable
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 833
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 838
+Content: Content: api_key = os.environ.get("FAL_KEY")
+Match: api_key = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 839
+Content: Match: api_key = os
+Match: api_key = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 844
+Content: Content: converter = FalImageToVideo(api_key=api_key)
+Match: api_key=api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 845
+Content: Match: api_key=api_key
+Match: api_key=api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 850
+Content: Content: def __init__(self, openai_api_key: Optional[str] = None):
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 851
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 856
+Content: Content: openai_api_key: OpenAI API key for transcript analysis
+Match: api_key: OpenAI
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 857
+Content: Match: api_key: OpenAI
+Match: api_key: OpenAI
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 862
+Content: Content: self.openai_client = openai.OpenAI(api_key=openai_api_key)
+Match: api_key=openai_api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 863
+Content: Match: api_key=openai_api_key
+Match: api_key=openai_api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 868
+Content: Content: self.openai_client = openai.OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+Match: api_key=os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 869
+Content: Match: api_key=os
+Match: api_key=os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 874
+Content: Content: print("Please set it using: export OPENAI_API_KEY=your_openai_key")
+Match: API_KEY=your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 875
+Content: Match: API_KEY=your_openai_key"
+Match: API_KEY=your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 880
+Content: Content: downloader = TranscriptImageDownloader(openai_api_key=openai_key)
+Match: api_key=openai_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 881
+Content: Match: api_key=openai_key
+Match: api_key=openai_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 886
+Content: Content: print("Please set it using: export OPENAI_API_KEY=your_openai_key")
+Match: API_KEY=your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 887
+Content: Match: API_KEY=your_openai_key"
+Match: API_KEY=your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 892
+Content: Content: downloader = TranscriptImageDownloader(openai_api_key=openai_key)
+Match: api_key=openai_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 893
+Content: Match: api_key=openai_key
+Match: api_key=openai_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 898
+Content: Content: export OPENAI_API_KEY="your_openai_key"
+Match: API_KEY="your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 899
+Content: Match: API_KEY="your_openai_key"
+Match: API_KEY="your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 904
+Content: Content: export ELEVENLABS_API_KEY="your_elevenlabs_key"
+Match: API_KEY="your_elevenlabs_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 905
+Content: Match: API_KEY="your_elevenlabs_key"
+Match: API_KEY="your_elevenlabs_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 910
+Content: Content: export TIKTOK_CLIENT_SECRET="your_tiktok_secret"
+Match: SECRET="your_tiktok_secret"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 911
+Content: Match: SECRET="your_tiktok_secret"
+Match: SECRET="your_tiktok_secret"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 916
+Content: Content: export TIKTOK_ACCESS_TOKEN="your_tiktok_token"
+Match: TOKEN="your_tiktok_token"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 917
+Content: Match: TOKEN="your_tiktok_token"
+Match: TOKEN="your_tiktok_token"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 922
+Content: Content: OPENAI_API_KEY=your_openai_key_here
+Match: API_KEY=your_openai_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 923
+Content: Match: API_KEY=your_openai_key_here
+Match: API_KEY=your_openai_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 928
+Content: Content: ELEVENLABS_API_KEY=your_elevenlabs_key_here
+Match: API_KEY=your_elevenlabs_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 929
+Content: Match: API_KEY=your_elevenlabs_key_here
+Match: API_KEY=your_elevenlabs_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 934
+Content: Content: TIKTOK_CLIENT_SECRET=your_tiktok_secret
+Match: SECRET=your_tiktok_secret
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 935
+Content: Match: SECRET=your_tiktok_secret
+Match: SECRET=your_tiktok_secret
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 940
+Content: Content: TIKTOK_ACCESS_TOKEN=your_tiktok_token
+Match: TOKEN=your_tiktok_token
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 941
+Content: Match: TOKEN=your_tiktok_token
+Match: TOKEN=your_tiktok_token
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 946
+Content: Content: -d "client_key=YOUR_CLIENT_KEY&client_secret=YOUR_CLIENT_SECRET&code=AUTHORIZATION_CODE&grant_type=authorization_code&redirect_uri=YOUR_REDIRECT_URI"
+Match: secret=YOUR_CLIENT_SECRET
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 947
+Content: Match: secret=YOUR_CLIENT_SECRET
+Match: secret=YOUR_CLIENT_SECRET
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 952
+Content: Content: TIKTOK_CLIENT_SECRET=your_client_secret_here
+Match: SECRET=your_client_secret_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 953
+Content: Match: SECRET=your_client_secret_here
+Match: SECRET=your_client_secret_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 958
+Content: Content: TIKTOK_ACCESS_TOKEN=your_access_token_here
+Match: TOKEN=your_access_token_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 959
+Content: Match: TOKEN=your_access_token_here
+Match: TOKEN=your_access_token_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 964
+Content: Content: def __init__(self, api_key: Optional[str] = None):
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 965
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 970
+Content: Content: api_key: Optional API key. If not provided, will use FAL_KEY environment variable
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 971
+Content: Match: api_key: Optional
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 976
+Content: Content: api_key = os.environ.get("FAL_KEY")
+Match: api_key = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 977
+Content: Match: api_key = os
+Match: api_key = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 982
+Content: Content: converter = FalImageToVideo(api_key=api_key)
+Match: api_key=api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 983
+Content: Match: api_key=api_key
+Match: api_key=api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 988
+Content: Content: export ELEVENLABS_API_KEY="your_api_key_here"
+Match: API_KEY="your_api_key_here"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 989
+Content: Match: API_KEY="your_api_key_here"
+Match: API_KEY="your_api_key_here"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 994
+Content: Content: ELEVENLABS_API_KEY=your_api_key_here
+Match: API_KEY=your_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/api_security_report.txt
+Line: 995
+Content: Match: API_KEY=your_api_key_here
+Match: API_KEY=your_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/fastapi_server.py
+Line: 267
+Content: "OPENAI_API_KEY": bool(os.environ.get("OPENAI_API_KEY")),
+Match: API_KEY": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/fastapi_server.py
+Line: 268
+Content: "ELEVENLABS_API_KEY": bool(os.environ.get("ELEVENLABS_API_KEY")),
+Match: API_KEY": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/fastapi_server.py
+Line: 269
+Content: "TIKTOK_ACCESS_TOKEN": bool(os.environ.get("TIKTOK_ACCESS_TOKEN")),
+Match: TOKEN": bool
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/0012_elevenlabs_video_demo.py
+Line: 214
+Content: API_KEY = os.environ.get('ELEVENLABS_API_KEY')
+Match: API_KEY = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/0012_elevenlabs_video_demo.py
+Line: 218
+Content: client = ElevenLabs(api_key=API_KEY)
+Match: api_key=API_KEY
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/elevenlabs_api.py
+Line: 26
+Content: def __init__(self, api_key=None):
+Match: api_key=None
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/elevenlabs_api.py
+Line: 27
+Content: self.api_key = api_key
+Match: api_key = api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/elevenlabs_api.py
+Line: 69
+Content: API_KEY = os.environ.get('ELEVENLABS_API_KEY')
+Match: API_KEY = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/elevenlabs_api.py
+Line: 73
+Content: client = ElevenLabs(api_key=API_KEY)
+Match: api_key=API_KEY
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/README.md
+Line: 30
+Content: OPENAI_API_KEY=your_openai_api_key_here
+Match: API_KEY=your_openai_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/README.md
+Line: 31
+Content: ELEVENLABS_API_KEY=your_elevenlabs_api_key_here
+Match: API_KEY=your_elevenlabs_api_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/z005_post_to_tiktok.py
+Line: 16
+Content: TIKTOK_CLIENT_SECRET=your_client_secret
+Match: SECRET=your_client_secret
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/z005_post_to_tiktok.py
+Line: 17
+Content: TIKTOK_ACCESS_TOKEN=your_access_token
+Match: TOKEN=your_access_token
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/z005_post_to_tiktok.py
+Line: 52
+Content: self.client_secret = os.getenv("TIKTOK_CLIENT_SECRET")
+Match: secret = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/z005_post_to_tiktok.py
+Line: 53
+Content: self.access_token = os.getenv("TIKTOK_ACCESS_TOKEN")
+Match: token = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/z005_post_to_tiktok.py
+Line: 341
+Content: print("   TIKTOK_CLIENT_SECRET=your_client_secret")
+Match: SECRET=your_client_secret"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/z005_post_to_tiktok.py
+Line: 342
+Content: print("   TIKTOK_ACCESS_TOKEN=your_access_token")
+Match: TOKEN=your_access_token"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/006_elevenlabs_text_to_voice.py
+Line: 50
+Content: def __init__(self, api_key: Optional[str] = None):
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/006_elevenlabs_text_to_voice.py
+Line: 55
+Content: api_key: ElevenLabs API key. If not provided, uses ELEVENLABS_API_KEY env var
+Match: api_key: ElevenLabs
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/006_elevenlabs_text_to_voice.py
+Line: 65
+Content: self.client = ElevenLabs(api_key=os.environ.get("ELEVENLABS_API_KEY"))
+Match: api_key=os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/006_elevenlabs_text_to_voice.py
+Line: 411
+Content: processor = ElevenLabsVideoProcessor(api_key=args.api_key)
+Match: api_key=args
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/001_USER_generate_video_from_pictures.py
+Line: 16
+Content: def __init__(self, api_key: Optional[str] = None):
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/001_USER_generate_video_from_pictures.py
+Line: 21
+Content: api_key: Optional API key. If not provided, will use FAL_KEY environment variable
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/001_USER_generate_video_from_pictures.py
+Line: 329
+Content: api_key = os.environ.get("FAL_KEY")
+Match: api_key = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/001_USER_generate_video_from_pictures.py
+Line: 339
+Content: converter = FalImageToVideo(api_key=api_key)
+Match: api_key=api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/02_download_image_from_transcript.py
+Line: 27
+Content: def __init__(self, openai_api_key: Optional[str] = None):
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/02_download_image_from_transcript.py
+Line: 32
+Content: openai_api_key: OpenAI API key for transcript analysis
+Match: api_key: OpenAI
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/02_download_image_from_transcript.py
+Line: 36
+Content: self.openai_client = openai.OpenAI(api_key=openai_api_key)
+Match: api_key=openai_api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/02_download_image_from_transcript.py
+Line: 38
+Content: self.openai_client = openai.OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+Match: api_key=os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/02_download_image_from_transcript.py
+Line: 851
+Content: print("Please set it using: export OPENAI_API_KEY=your_openai_key")
+Match: API_KEY=your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/02_download_image_from_transcript.py
+Line: 856
+Content: downloader = TranscriptImageDownloader(openai_api_key=openai_key)
+Match: api_key=openai_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/02_download_image_from_transcript.py
+Line: 899
+Content: print("Please set it using: export OPENAI_API_KEY=your_openai_key")
+Match: API_KEY=your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/02_download_image_from_transcript.py
+Line: 904
+Content: downloader = TranscriptImageDownloader(openai_api_key=openai_key)
+Match: api_key=openai_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/FASTAPI_API_GUIDE.md
+Line: 28
+Content: export OPENAI_API_KEY="your_openai_key"
+Match: API_KEY="your_openai_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/FASTAPI_API_GUIDE.md
+Line: 29
+Content: export ELEVENLABS_API_KEY="your_elevenlabs_key"
+Match: API_KEY="your_elevenlabs_key"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/FASTAPI_API_GUIDE.md
+Line: 33
+Content: export TIKTOK_CLIENT_SECRET="your_tiktok_secret"
+Match: SECRET="your_tiktok_secret"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/FASTAPI_API_GUIDE.md
+Line: 34
+Content: export TIKTOK_ACCESS_TOKEN="your_tiktok_token"
+Match: TOKEN="your_tiktok_token"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/FASTAPI_API_GUIDE.md
+Line: 109
+Content: OPENAI_API_KEY=your_openai_key_here
+Match: API_KEY=your_openai_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/FASTAPI_API_GUIDE.md
+Line: 112
+Content: ELEVENLABS_API_KEY=your_elevenlabs_key_here
+Match: API_KEY=your_elevenlabs_key_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/FASTAPI_API_GUIDE.md
+Line: 116
+Content: TIKTOK_CLIENT_SECRET=your_tiktok_secret
+Match: SECRET=your_tiktok_secret
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/FASTAPI_API_GUIDE.md
+Line: 117
+Content: TIKTOK_ACCESS_TOKEN=your_tiktok_token
+Match: TOKEN=your_tiktok_token
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/TIKTOK_SETUP_GUIDE.md
+Line: 48
+Content: -d "client_key=YOUR_CLIENT_KEY&client_secret=YOUR_CLIENT_SECRET&code=AUTHORIZATION_CODE&grant_type=authorization_code&redirect_uri=YOUR_REDIRECT_URI"
+Match: secret=YOUR_CLIENT_SECRET
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/TIKTOK_SETUP_GUIDE.md
+Line: 67
+Content: TIKTOK_CLIENT_SECRET=your_client_secret_here
+Match: SECRET=your_client_secret_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/TIKTOK_SETUP_GUIDE.md
+Line: 68
+Content: TIKTOK_ACCESS_TOKEN=your_access_token_here
+Match: TOKEN=your_access_token_here
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/001_AI_generate_video_from_pictures.py
+Line: 16
+Content: def __init__(self, api_key: Optional[str] = None):
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/001_AI_generate_video_from_pictures.py
+Line: 21
+Content: api_key: Optional API key. If not provided, will use FAL_KEY environment variable
+Match: api_key: Optional
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/001_AI_generate_video_from_pictures.py
+Line: 327
+Content: api_key = os.environ.get("FAL_KEY")
+Match: api_key = os
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/001_AI_generate_video_from_pictures.py
+Line: 337
+Content: converter = FalImageToVideo(api_key=api_key)
+Match: api_key=api_key
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/USAGE_EXAMPLE.md
+Line: 12
+Content: export ELEVENLABS_API_KEY="your_api_key_here"
+Match: API_KEY="your_api_key_here"
+--------------------------------------------------
+
+File: /Users/sudipkandel/Desktop/Desktop - Sudip’s MacBook Air/ALL/Hackathon/veed.io-local/veed-io/veed-hackathon/USAGE_EXAMPLE.md
+Line: 17
+Content: ELEVENLABS_API_KEY=your_api_key_here
+Match: API_KEY=your_api_key_here
+--------------------------------------------------

@@ -4,6 +4,7 @@ fal-client
 pydantic
 python-multipart
 requests
-elevenlabs
+elevenlabs>=1.0.0
+pyaudio
 python-dotenv
 certifi
