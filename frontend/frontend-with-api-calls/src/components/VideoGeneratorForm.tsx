@@ -220,7 +220,7 @@ export const VideoGeneratorForm: React.FC<VideoGeneratorFormProps> = ({
       const base64Audio = await base64Promise;
 
       // Send the request with the correct format
-      const response = await fetch('http://0.0.0.0:8000/process-transcripts', {
+      const response = await fetch('http://0.0.0.0:8001/chat', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -261,7 +261,7 @@ export const VideoGeneratorForm: React.FC<VideoGeneratorFormProps> = ({
     try {
       setIsTTSProcessing(true);
       
-      const response = await fetch('http://0.0.0.0:8000/text-to-speech-pipeline', {
+      const response = await fetch('http://0.0.0.0:8002/text-to-speech-pipeline', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -299,7 +299,7 @@ export const VideoGeneratorForm: React.FC<VideoGeneratorFormProps> = ({
       setIsCreatingStoryline(true);
       toast.info('Creating storyline...');
       
-      const response = await fetch('http://0.0.0.0:8000/create-storyline', {
+      const response = await fetch('http://0.0.0.0:8002/create-storyline', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -399,7 +399,7 @@ export const VideoGeneratorForm: React.FC<VideoGeneratorFormProps> = ({
   const handleGenerateVideo = async () => {
     try {
       // First API call: generate-video-user
-      const userVideoResponse = await fetch('http://0.0.0.0:8000/generate-video-user', {
+      const userVideoResponse = await fetch('http://0.0.0.0:8002/generate-video-user', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -422,7 +422,7 @@ export const VideoGeneratorForm: React.FC<VideoGeneratorFormProps> = ({
       toast.success('User video generation started');
 
       // Second API call: generate-video-ai
-      const aiVideoResponse = await fetch('http://0.0.0.0:8000/generate-video-ai', {
+      const aiVideoResponse = await fetch('http://0.0.0.0:8002/generate-video-ai', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -455,7 +455,7 @@ export const VideoGeneratorForm: React.FC<VideoGeneratorFormProps> = ({
       setIsUploadingToTikTok(true);
       toast.info('Starting TikTok upload...');
 
-      const response = await fetch('http://0.0.0.0:8000/upload-to-tiktok', {
+      const response = await fetch('http://0.0.0.0:8002/upload-to-tiktok', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -495,7 +495,7 @@ export const VideoGeneratorForm: React.FC<VideoGeneratorFormProps> = ({
       setIsUploadingToYouTube(true);
       toast.info('Starting YouTube upload...');
 
-      const response = await fetch('http://0.0.0.0:8000/upload-to-youtube', {
+      const response = await fetch('http://0.0.0.0:8002/upload-to-youtube', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

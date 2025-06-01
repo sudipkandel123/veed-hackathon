@@ -20,8 +20,12 @@ class FalImageToVideo:
         Args:
             api_key: Optional API key. If not provided, will use FAL_KEY environment variable
         """
+        api_key = "5c585f14-c80a-4a4a-8a27-0609c74e498f:1e0fc1bc9a2ee306a908be5fb3f41fa2"
+        print(f"✅ api_key: {api_key}")
+
         if api_key:
             os.environ["FAL_KEY"] = api_key
+            print(f"✅ FAL_KEY: {api_key}")
         elif not os.environ.get("FAL_KEY"):
             raise ValueError(
                 "API key must be provided either as parameter or FAL_KEY environment variable"

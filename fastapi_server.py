@@ -960,5 +960,5 @@ if __name__ == "__main__":
     print("🔗 Alternative docs at: http://localhost:8000/redoc")
 
     uvicorn.run(
-        "fastapi_server:app", host="0.0.0.0", port=8000, reload=True, log_level="info"
+        "fastapi_server:app", host="0.0.0.0", port=8002, reload=True, log_level="info"
     )
