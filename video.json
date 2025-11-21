@@ -1,0 +1,40 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "file_path": "videos/20250531_204844_bacf8298_req0_reenc-tmps4cnglss.mp4",
+      "title": "Urban Scene 1",
+      "description": "A bustling city street with people walking and cars passing by. Shows modern urban life with buildings and traffic.",
+      "duration": 5.2,
+      "content_tags": ["urban", "city", "street", "people", "traffic"],
+      "mood": "energetic",
+      "key_moments": "People crossing streets, city sounds, urban environment"
+    },
+    {
+      "id": 2,
+      "file_path": "videos/20250531_204843_b717f8e7_req1_reenc-tmprlu_3rqj.mp4",
+      "title": "Urban Scene 2",
+      "description": "Another view of city life showing different perspectives of urban environment with architectural elements.",
+      "duration": 4.8,
+      "content_tags": ["urban", "architecture", "city", "modern"],
+      "mood": "contemplative",
+      "key_moments": "Architectural details, urban landscape, city atmosphere"
+    },
+    {
+      "id": 3,
+      "file_path": "videos/20250531_193135_big-ben.mp4",
+      "title": "Big Ben Landmark",
+      "description": "Iconic view of Big Ben clock tower in London, representing historical architecture and British culture.",
+      "duration": 8.0,
+      "content_tags": ["landmark", "historical", "London", "Big Ben", "architecture"],
+      "mood": "majestic",
+      "key_moments": "Big Ben tower, historical architecture, London skyline"
+    }
+  ],
+  "project_info": {
+    "theme": "Urban exploration and iconic landmarks",
+    "target_duration": 15,
+    "style": "fast-paced YouTube short",
+    "target_audience": "travel and city enthusiasts"
+  }
+} 

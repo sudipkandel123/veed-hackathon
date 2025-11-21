@@ -1,0 +1,147 @@
+2025-06-01 00:28:31,439 - ERROR - FFmpeg not found. Please install FFmpeg to use this script.
+2025-06-01 00:33:00,608 - ERROR - ELEVENLABS_API_KEY environment variable not set
+2025-06-01 00:33:58,578 - INFO - Ensured directory exists: stories
+2025-06-01 00:33:58,579 - INFO - Ensured directory exists: videos
+2025-06-01 00:33:58,579 - INFO - Ensured directory exists: output
+2025-06-01 00:33:58,579 - INFO - Ensured directory exists: logs
+2025-06-01 00:33:58,579 - INFO - Ensured directory exists: audio
+2025-06-01 00:33:58,579 - INFO - Starting complete ElevenLabs video processing pipeline...
+2025-06-01 00:33:58,579 - INFO - Step 1: Reading storyline...
+2025-06-01 00:33:58,579 - INFO - Successfully read storyline (442 characters)
+2025-06-01 00:33:58,579 - INFO - Preview: "Fasten your seatbelts, folks! We're on a whirlwind adventure through London today! First stop: the ...
+2025-06-01 00:33:58,579 - INFO - Step 2: Converting text to speech...
+2025-06-01 00:33:58,579 - INFO - Converting text to speech...
+2025-06-01 00:33:58,579 - INFO - Using voice ID: JBFqnCBsd6RMkjVDRZzb
+2025-06-01 00:33:58,579 - INFO - Using model: eleven_multilingual_v2
+2025-06-01 00:34:04,198 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/JBFqnCBsd6RMkjVDRZzb?output_format=mp3_44100_128 "HTTP/1.1 200 OK"
+2025-06-01 00:34:04,315 - INFO - Audio generated successfully: audio/voiceover.mp3
+2025-06-01 00:34:04,315 - INFO - Step 3: Processing videos...
+2025-06-01 00:34:04,316 - INFO - Found 4 video files:
+2025-06-01 00:34:04,316 - INFO -   1. 20250531_221924_Big_Ben_2.mp4
+2025-06-01 00:34:04,316 - INFO -   2. 20250531_224244_Greenwich_Park_1.mp4
+2025-06-01 00:34:04,316 - INFO -   3. 20250531_224246_Big_Ben_3.mp4
+2025-06-01 00:34:04,316 - INFO -   4. 20250531_224247_Bank_Station_4.mp4
+2025-06-01 00:34:04,316 - INFO - Merging 4 videos...
+2025-06-01 00:34:04,316 - INFO - Running FFmpeg video merge...
+2025-06-01 00:34:04,638 - INFO - Videos merged successfully: output/merged_video.mp4 (20.00s)
+2025-06-01 00:34:04,638 - INFO - Step 4: Combining audio and video...
+2025-06-01 00:34:04,638 - INFO - Combining audio and video...
+2025-06-01 00:34:04,679 - INFO - Running FFmpeg audio/video combination...
+2025-06-01 00:34:07,406 - INFO - Final video created: output/final_video_with_voiceover_20250601_003404.mp4 (20.00s)
+2025-06-01 00:34:07,406 - INFO - ✅ Pipeline completed successfully!
+2025-06-01 00:34:07,406 - INFO - 📁 Final output: output/final_video_with_voiceover_20250601_003404.mp4
+2025-06-01 00:51:04,418 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-06-01 08:42:40,403 - ERROR - FFmpeg not found. Please install FFmpeg to use this script.
+2025-06-01 08:43:12,621 - ERROR - FFmpeg not found. Please install FFmpeg to use this script.
+2025-06-01 09:44:59,228 - INFO - 3 changes detected
+2025-06-01 09:45:07,987 - INFO - 3 changes detected
+2025-06-01 09:52:01,783 - INFO - 1 change detected
+2025-06-01 09:53:04,084 - INFO - 1 change detected
+2025-06-01 09:53:10,821 - INFO - 1 change detected
+2025-06-01 09:53:21,023 - INFO - 1 change detected
+2025-06-01 09:53:37,859 - INFO - 1 change detected
+2025-06-01 09:54:21,774 - INFO - 1 change detected
+2025-06-01 09:54:24,052 - INFO - 6103 changes detected
+2025-06-01 09:54:25,293 - INFO - 5212 changes detected
+2025-06-01 09:54:26,164 - INFO - 1930 changes detected
+2025-06-01 09:54:27,718 - INFO - 5197 changes detected
+2025-06-01 09:54:28,118 - INFO - 1 change detected
+2025-06-01 09:54:29,523 - INFO - 5518 changes detected
+2025-06-01 09:54:31,503 - INFO - 7228 changes detected
+2025-06-01 09:54:32,652 - INFO - 4152 changes detected
+2025-06-01 09:54:34,658 - INFO - 7610 changes detected
+2025-06-01 09:54:36,339 - INFO - 6750 changes detected
+2025-06-01 09:54:38,324 - INFO - 9879 changes detected
+2025-06-01 09:54:40,332 - INFO - 7317 changes detected
+2025-06-01 09:54:41,906 - INFO - 5276 changes detected
+2025-06-01 09:54:42,418 - INFO - 42 changes detected
+2025-06-01 09:54:42,780 - INFO - 26 changes detected
+2025-06-01 09:54:45,798 - INFO - 7533 changes detected
+2025-06-01 09:54:53,519 - INFO - 1 change detected
+2025-06-01 09:55:02,480 - INFO - 26 changes detected
+2025-06-01 09:55:04,410 - INFO - 199 changes detected
+2025-06-01 09:55:04,773 - INFO - 49 changes detected
+2025-06-01 09:58:32,925 - INFO - 2 changes detected
+2025-06-01 09:59:36,162 - INFO - 4 changes detected
+2025-06-01 10:05:48,599 - INFO - 3 changes detected
+2025-06-01 10:07:24,775 - INFO - 1 change detected
+2025-06-01 10:07:33,560 - INFO - 1 change detected
+2025-06-01 10:07:45,953 - INFO - 1 change detected
+2025-06-01 10:08:06,623 - INFO - 1 change detected
+2025-06-01 10:08:35,913 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-06-01 10:09:52,621 - INFO - 1 change detected
+2025-06-01 10:10:30,543 - INFO - 1 change detected
+2025-06-01 10:11:07,274 - INFO - HTTP Request: POST https://rest.alpha.fal.ai/storage/auth/token?storage_type=fal-cdn-v3 "HTTP/1.1 200 OK"
+2025-06-01 10:11:08,751 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:11:08,891 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:11:08,933 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:11:09,117 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:11:09,212 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:11:09,238 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:11:09,400 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:11:09,547 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:11:10,974 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:11:11,079 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:11:11,409 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:11:11,514 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:11:11,534 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:11:11,641 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:12:19,391 - INFO - 1 change detected
+2025-06-01 10:13:06,871 - INFO - 1 change detected
+2025-06-01 10:13:45,152 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:13:45,224 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:13:45,338 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:13:45,465 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:13:45,490 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:13:45,532 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:13:45,594 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:13:45,652 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:13:45,728 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:13:45,831 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:13:45,838 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:13:45,905 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:13:45,943 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:13:45,944 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:13:46,008 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:13:46,049 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:13:46,742 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:13:46,812 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:13:46,856 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:13:46,916 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:13:47,282 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:13:47,393 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:13:47,675 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:13:47,689 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:13:47,723 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:13:47,781 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:13:47,794 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:13:47,882 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:14:10,731 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-06-01 10:14:22,800 - INFO - HTTP Request: POST https://rest.alpha.fal.ai/storage/auth/token?storage_type=fal-cdn-v3 "HTTP/1.1 200 OK"
+2025-06-01 10:14:25,052 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:14:25,409 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:14:53,033 - INFO - 1 change detected
+2025-06-01 10:15:57,630 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-06-01 10:16:01,610 - INFO - HTTP Request: POST https://rest.alpha.fal.ai/storage/auth/token?storage_type=fal-cdn-v3 "HTTP/1.1 200 OK"
+2025-06-01 10:16:03,024 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:16:03,375 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:17:38,547 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-06-01 10:17:47,976 - INFO - HTTP Request: POST https://rest.alpha.fal.ai/storage/auth/token?storage_type=fal-cdn-v3 "HTTP/1.1 200 OK"
+2025-06-01 10:17:49,327 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:17:49,694 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"
+2025-06-01 10:18:55,930 - INFO - 1 change detected
+2025-06-01 10:18:56,293 - INFO - 3 changes detected
+2025-06-01 10:18:56,654 - INFO - 4 changes detected
+2025-06-01 10:22:37,481 - INFO - 1 change detected
+2025-06-01 10:22:38,261 - INFO - 1 change detected
+2025-06-01 10:22:38,624 - INFO - 3 changes detected
+2025-06-01 10:23:03,385 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-06-01 10:23:17,223 - INFO - HTTP Request: POST https://rest.alpha.fal.ai/storage/auth/token?storage_type=fal-cdn-v3 "HTTP/1.1 200 OK"
+2025-06-01 10:23:18,610 - INFO - HTTP Request: POST https://v3.fal.media/files/upload "HTTP/1.1 200 OK"
+2025-06-01 10:23:18,976 - INFO - HTTP Request: POST https://queue.fal.run/fal-ai/veo2/image-to-video "HTTP/1.1 403 Forbidden"

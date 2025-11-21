@@ -1,0 +1,40 @@
+{
+  "timestamp": "20250531_224248",
+  "total_transcripts": 1,
+  "successful_transcripts": 1,
+  "total_images_downloaded": 3,
+  "results": [
+    {
+      "success": true,
+      "transcript_file": "session_transcripts/conversation_20250531_223951.txt",
+      "concepts": [
+        "Greenwich Park",
+        "Battersea Park",
+        "Big Ben",
+        "Bank Station",
+        "Cannon Street"
+      ],
+      "downloaded_images": [
+        {
+          "concept": "Greenwich Park",
+          "filename": "Greenwich_Park_1.jpg",
+          "url": "https://media.timeout.com/images/102150513/750/422/image.jpg"
+        },
+        {
+          "concept": "Big Ben",
+          "filename": "Big_Ben_3.jpg",
+          "url": "https://cdn.britannica.com/49/136849-050-6A33C899/Big-Ben-London.jpg"
+        },
+        {
+          "concept": "Bank Station",
+          "filename": "Bank_Station_4.jpg",
+          "url": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2018/05/16051839/Bank-1-1024x683.jpg"
+        }
+      ],
+      "errors": [
+        "Failed to download image for: Battersea Park",
+        "Failed to download image for: Cannon Street"
+      ]
+    }
+  ]
+}

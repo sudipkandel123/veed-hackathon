@@ -1,0 +1,17 @@
+openai
+elevenlabs
+moviepy
+Pillow
+numpy
+requests
+python-dotenv
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+fastapi
+uvicorn[standard]
+pydantic
+aiofiles
+certifi
+ffmpeg-python 

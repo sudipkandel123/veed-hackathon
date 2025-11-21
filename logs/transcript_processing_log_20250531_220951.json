@@ -1,0 +1,47 @@
+{
+  "timestamp": "20250531_220951",
+  "total_transcripts": 1,
+  "successful_transcripts": 1,
+  "total_images_downloaded": 5,
+  "results": [
+    {
+      "success": true,
+      "transcript_file": "session_transcripts/conversation_20250531_213307.txt",
+      "concepts": [
+        "YouTube video creation",
+        "vlog style content",
+        "Greenwich Park",
+        "spontaneous and fun theme",
+        "suggested music"
+      ],
+      "downloaded_images": [
+        {
+          "concept": "YouTube video creation",
+          "filename": "YouTube_video_creation_1.jpg",
+          "url": "https://lickd.co/wp-content/uploads/2022/08/man-editing-a-video-to-become-a-content-creator.jpeg"
+        },
+        {
+          "concept": "vlog style content",
+          "filename": "vlog_style_content_2.jpg",
+          "url": "https://beonair.com/wp-content/uploads/2020/01/vlog-ideas-to-try-out.jpg"
+        },
+        {
+          "concept": "Greenwich Park",
+          "filename": "Greenwich_Park_3.jpg",
+          "url": "https://media.timeout.com/images/102150513/750/422/image.jpg"
+        },
+        {
+          "concept": "spontaneous and fun theme",
+          "filename": "spontaneous_and_fun_theme_4.jpg",
+          "url": "https://www.adventurebook.com/connect/wp-content/uploads/sites/2/2023/05/summer-party-themes.jpg"
+        },
+        {
+          "concept": "suggested music",
+          "filename": "suggested_music_5.jpg",
+          "url": "https://www.viwizard.com/images/resource/spotify-desktop-queue-suggested-songs.jpg"
+        }
+      ],
+      "errors": []
+    }
+  ]
+}

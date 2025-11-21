@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+fal-client
+pydantic
+python-multipart
+requests
+elevenlabs>=1.0.0
+pyaudio
+python-dotenv
+certifi
